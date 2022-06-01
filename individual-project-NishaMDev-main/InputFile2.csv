@@ -1,0 +1,7 @@
+BookingName, flightNumber, seatCategory, numberOfSeats, paymentCardNumber
+Sam,SJ456,Economy,4,5410000000000000
+Richard,BY110,Premium Economy,2,341000000000000
+Anna,SJ456,Economy,1,4120000000000
+John,CA453,Economy,1,5410000000000000
+Sierra,CA453,Business,1,5410000000000000
+Nisha,CA453,Premium Economy,1,5410000000000000

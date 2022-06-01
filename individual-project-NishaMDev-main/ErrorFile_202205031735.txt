@@ -1,0 +1,6 @@
+Please enter correct booking details for Julie:invalid card details
+Please enter correct booking details for Vicky:invalid card details
+Please enter correct booking details for Peter:invalid card details
+Please enter correct booking details for Rosie:invalid card details
+Please enter correct booking details for Mohan:invalid card details
+Please enter correct booking details for Nisha:invalid card details
